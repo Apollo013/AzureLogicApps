@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureLogicApps", "AzureLogicApps\AzureLogicApps.csproj", "{80C646BE-B425-43F6-A88C-41A2005ADFF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80C646BE-B425-43F6-A88C-41A2005ADFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C646BE-B425-43F6-A88C-41A2005ADFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C646BE-B425-43F6-A88C-41A2005ADFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C646BE-B425-43F6-A88C-41A2005ADFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F88CB83-75D7-4DF9-9EA9-C74FDB128AE8}
+	EndGlobalSection
+EndGlobal
